@@ -1,0 +1,15 @@
+"F:\IAR\arm\bin\armproc.dll" 
+
+"F:\IAR\arm\bin\armjlink2.dll" 
+
+"C:\Users\22767\Desktop\eternal52-Kzhili-master\Kzhili\Prj\IAR\DZ10_Debug\Exe\fire_Kinetis.out" 
+
+--plugin="F:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="F:\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro="F:\IAR\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+
+
+

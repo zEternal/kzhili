@@ -1,0 +1,17 @@
+"F:\IAR\arm\bin\armproc.dll" 
+
+"F:\IAR\arm\bin\armjlink2.dll" 
+
+"F:\18智能车\爱国学长直立\程序\站立指南中级篇\野火站立平衡组中级篇\Prj\IAR\FX15_Debug\Exe\fire_Kinetis.out" 
+
+--plugin="F:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="F:\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro="F:\IAR\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader="F:\IAR\arm\config\flashloader\Freescale\FlashK60Fxxx128K.board" 
+
+
+
+
